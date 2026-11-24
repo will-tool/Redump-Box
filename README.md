@@ -1,103 +1,46 @@
-<div align="center">
+# Redump Box
 
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664095599238/aAcxiqohuGiGisgH.png" alt="Ícone do Redump Box" width="145">
+> **Download da versão 1.0:** [baixar APK para Android](https://github.com/will-tool/Redump-Box/releases/download/1.0/redumpbox_beta_1.0_arm64.apk)  
+> [Abrir página da Release](https://github.com/will-tool/Redump-Box/releases/tag/1.0) · [Ver todas as versões](https://github.com/will-tool/Redump-Box/releases)
 
-# REDUMP BOX
+Um catálogo Android de **ports, jogos, emuladores e aplicativos auxiliares**. Pesquise itens, veja as informações disponíveis e acompanhe novidades no próprio app.
 
-### Ports, jogos, emuladores e apps no seu Android
+## O que tem no app
 
-[![Android 7+](https://img.shields.io/badge/Android-7.0%2B-36BFA6?style=flat-square&logo=android&logoColor=white)](#compatibilidade)
-[![Versão 1.0](https://img.shields.io/badge/versão-1.0-153E4D?style=flat-square)](https://github.com/will-tool/Redump-Box/releases/tag/1.0)
-[![ARM64](https://img.shields.io/badge/arquitetura-ARM64-218C91?style=flat-square)](#compatibilidade)
+- Catálogos de ports, jogos, emuladores e apps.
+- Busca e filtros para localizar itens.
+- Páginas de detalhes com as informações e os links cadastrados.
+- Favoritos e fila de downloads.
+- Novidades e notificações de atualização.
+- Temas Mar, Escuro e Claro.
 
-[**BAIXAR APK 1.0**](https://github.com/will-tool/Redump-Box/releases/download/1.0/redumpbox_beta_1.0_arm64.apk)　|　[Ver versões](https://github.com/will-tool/Redump-Box/releases)　|　[Telegram](https://t.me/redumpbox)
+## Instalação
 
-</div>
+1. Baixe o APK pelo link de download acima ou pela página de [Releases](https://github.com/will-tool/Redump-Box/releases).
+2. Abra o arquivo no Android e siga as instruções na tela.
+3. Se o Android solicitar, autorize a instalação para o navegador ou gerenciador de arquivos usado e retome a instalação.
 
----
+### Requisitos
 
-## Conheça o Redump Box
-
-Um catálogo Android para descobrir ports, jogos, emuladores e aplicativos auxiliares. Explore as seções, pesquise o que procura e consulte as informações de cada item em um só app.
-
-## O app em imagens
-
-<div align="center">
-
-**INÍCIO**　　**APPS**　　**EMULADORES**
-
-<img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664095599238/GkOfhAwsmiZRvxKu.jpg" alt="Página inicial: destaques e coleções" width="31%"> <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664095599238/gXQZcIuWovsdFyyZ.jpg" alt="Catálogo de aplicativos" width="31%"> <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519664095599238/jLtpZxSEYHrugcRR.jpg" alt="Lista de emuladores e filtros" width="31%">
-
-</div>
-
-## Recursos
-
-| Área | O que você pode fazer |
-|---|---|
-| Catálogo | Navegar por ports, jogos, emuladores e apps auxiliares |
-| Busca | Pesquisar itens e usar os filtros disponíveis |
-| Detalhes | Consultar descrição, plataforma, versão e links cadastrados |
-| Favoritos | Guardar itens para encontrar depois |
-| Novidades | Ver itens recentes e avisos de atualização |
-| Aparência | Escolher entre os temas Mar, Escuro e Claro |
-| Downloads | Acompanhar arquivos na fila de downloads |
-
-## Instalar
-
-1. Toque em **Baixar APK 1.0** acima ou abra [Releases](https://github.com/will-tool/Redump-Box/releases).
-2. Baixe `redumpbox_beta_1.0_arm64.apk`.
-3. Abra o arquivo no Android e siga as instruções apresentadas.
-4. Se o sistema solicitar permissão para instalar apps dessa origem, autorize o navegador ou gerenciador de arquivos e retome a instalação.
-
-### Compatibilidade
-
-Esta versão foi compilada para **ARM64 (`arm64-v8a`)** e requer **Android 7.0 ou mais recente**. Aparelhos com arquitetura diferente podem não ser compatíveis com este APK.
+A versão 1.0 disponibilizada aqui é para **Android 7.0 ou superior**, em dispositivos **ARM64 (`arm64-v8a`)**. Um aparelho com arquitetura diferente pode não aceitar este APK.
 
 ## Atualizações
 
-As novas versões ficam na página de [Releases](https://github.com/will-tool/Redump-Box/releases). Se uma atualização obrigatória estiver ativa, o app mostrará o aviso e levará o usuário ao download. A etapa de instalação é confirmada pelo próprio Android.
+As versões novas são publicadas em [Releases](https://github.com/will-tool/Redump-Box/releases). Se o aviso de atualização obrigatória estiver ativo, o app encaminha para baixar a nova versão. A instalação sempre depende da confirmação do Android.
 
-Para instalar uma atualização sobre uma versão existente, o APK novo precisa usar o mesmo identificador do app e a mesma chave de assinatura.
+Para atualizar uma instalação existente, a versão nova precisa manter o mesmo identificador de aplicativo e ser assinada com a mesma chave usada na instalação anterior.
 
-## Perguntas frequentes
+## Aviso sobre downloads
 
-<details>
-<summary><strong>O Android está pedindo autorização para instalar?</strong></summary>
+Os itens do catálogo podem apontar para serviços externos. Links e arquivos podem mudar ou deixar de funcionar. Confira a origem antes de baixar e instale apenas conteúdo que você tem autorização para usar.
 
-É uma proteção do Android para instalações fora da loja. Se você escolheu instalar, habilite a permissão para a origem indicada pelo sistema e volte ao instalador. Baixe o APK apenas da Release oficial.
+Nomes, marcas, imagens, jogos e apps de terceiros pertencem aos seus respectivos titulares. A presença de um item no catálogo não significa que Redump Box seja seu criador ou titular.
 
-</details>
+Este repositório é para apresentar o app e distribuir os APKs em **Releases**. O código-fonte não está publicado aqui.
 
-<details>
-<summary><strong>O APK não é compatível com meu aparelho?</strong></summary>
+## Comunidade e suporte
 
-O arquivo desta versão é ARM64. Confira também se o aparelho usa Android 7.0 ou superior.
+- **Telegram:** [t.me/redumpbox](https://t.me/redumpbox)
+- **Problemas ou sugestões:** [abrir uma Issue](https://github.com/will-tool/Redump-Box/issues)
 
-</details>
-
-<details>
-<summary><strong>Um link do catálogo parou de funcionar?</strong></summary>
-
-Alguns links levam a serviços externos e podem mudar ou ficar indisponíveis. Consulte a origem do item antes de instalar qualquer arquivo.
-
-</details>
-
-## Importante
-
-Nomes, marcas, imagens e conteúdos de terceiros pertencem aos seus respectivos titulares. A presença de um item no catálogo não significa que Redump Box seja seu criador ou titular. Baixe e distribua somente arquivos que você tem autorização para usar e respeite os direitos dos respectivos autores.
-
-Este repositório apresenta o aplicativo e disponibiliza os APKs em **Releases**; o código-fonte não está publicado aqui. Confira se o arquivo baixado veio da página oficial antes de instalar.
-
-## Fale com a comunidade
-
-- Telegram: [t.me/redumpbox](https://t.me/redumpbox)
-- Downloads: [Releases do Redump Box](https://github.com/will-tool/Redump-Box/releases)
-- Problemas com o app: [abra uma Issue](https://github.com/will-tool/Redump-Box/issues). Não inclua senhas, tokens ou dados pessoais.
-
----
-
-<div align="center">
-
-**REDUMP BOX · catálogo Android**
-
-</div>
+Ao relatar um problema, informe o modelo do aparelho, a versão do Android e o que aconteceu. Não publique senhas, tokens ou dados pessoais.
