@@ -4,6 +4,11 @@
 
 # Redump Box 1.0
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-7.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0+">
+  <img src="https://img.shields.io/badge/Vers%C3%A3o-1.0-8B5CF6?style=for-the-badge" alt="Versão 1.0">
+</p>
+
 O Redump Box é um app para Android que reúne ports, jogos e emuladores num só lugar. Em cada item você encontra capa, descrição, requisitos, versões e fotos, e pode navegar pelo catálogo do jeito que preferir.
 
 <p align="center">
