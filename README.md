@@ -1,83 +1,59 @@
-# 📦 Redump Box
+<p align="center">
+  <img src="icone.png" alt="Ícone do Redump Box" width="128">
+</p>
 
-Um app Android para explorar ports, jogos e emuladores em um só lugar, com catálogo organizado, coleções, novidades e fotos de cada item.
+# Redump Box 1.0
 
-> ⚠️ **Aviso importante:** o app não contém jogos nem emuladores. Ele apenas organiza e direciona para o que a equipe publica. Use apenas conteúdo que você tem o direito de usar.
+O Redump Box é um app para Android que reúne ports, jogos e emuladores num só lugar. Em cada item você encontra capa, descrição, requisitos, versões e fotos, e pode navegar pelo catálogo do jeito que preferir.
 
----
+A proposta é juntar em um lugar só o que normalmente fica espalhado por vários sites: o nome do jogo, a versão, o que ele precisa do seu aparelho, quando foi recompilado e se já existe um link para abrir. Tudo organizado para você escolher com calma.
 
-## 📥 Download
+## Requisitos
 
-Baixe a versão mais recente na página de **Releases** deste repositório.
+- Android 7.0 ou superior.
+- Conexão com a internet para carregar o catálogo e as fotos. Sem internet, o app mostra o que já foi carregado antes.
+- Espaço livre no aparelho para o app e para as capas e fotos guardadas no cache.
+- Para rodar jogos, verifique os requisitos de cada item na ficha: eles informam a versão mínima do Android e o que o aparelho precisa.
 
-| Versão | Tamanho | Onde baixar |
-|---|---|---|
-| Última | [preencher] | Página de Releases |
+## Ports Redump
 
----
+A aba de ports traz o catálogo de jogos Redump. Cada item mostra capa, nome, categoria e plataforma.
 
-## 🚀 Primeiro uso
+- **Ordem:** A–Z ou Recentes. A escolha fica salva.
+- **Visualização:** grade, agrupada por letra, ou lista, com um jogo por linha. Na grade, uma setinha indica quando há mais jogos naquela letra.
+- **Ficha:** capa, descrição, requisitos, versões disponíveis e fotos do app.
+- **Link do jogo:** quando existe, o botão "Abrir link do jogo" abre a página no navegador.
+- **Data recompilada:** mostra quando a versão atual foi preparada.
+- **Pedir link:** quem está logado pode pedir o link de um jogo que ainda não tem. Esse botão só aparece para contas logadas.
+- **Contagem de downloads:** cada jogo mostra quantas contas já baixaram. Cada conta conta uma vez por jogo.
 
-1. Baixe o arquivo de instalação pela página de Releases.
-2. Abra o arquivo no celular e autorize a instalação, se o Android pedir.
-3. Toque em **Instalar** e depois em **Abrir**.
-4. Na primeira vez, o app mostra uma apresentação rápida com o que existe em cada aba.
+## Jogos originais
 
-> 💡 **Dica:** o app guarda o último catálogo carregado. Assim, depois da primeira abertura com internet, você continua vendo os itens mesmo sem conexão.
+A aba Originais reúne jogos que não fazem parte do catálogo Redump. Eles têm a mesma ordem, a mesma visualização e a mesma ficha dos ports.
 
----
+## Emuladores
 
-## ✨ Recursos
+A aba de emuladores lista cada emulador com os sistemas que ele roda, a plataforma, as versões e as fotos. Os emuladores em destaque aparecem numa vitrine no topo da aba, com imagens maiores.
 
-| Área | O que você encontra |
-|---|---|
-| 🏠 **Início** | Destaques escolhidos pela equipe e coleções em destaque |
-| 📚 **Coleções** | Grupos de itens por tema, com contador e a opção "Ver tudo" |
-| 🆕 **Chegou agora** | Itens adicionados nas últimas 24 horas |
-| 🎮 **Ports Redump** | Catálogo com ordem A–Z ou recentes, em grade ou lista |
-| 🧩 **Originais** | Jogos publicados pela equipe, fora do catálogo Redump |
-| 🖥️ **Emuladores** | Lista com sistemas, plataforma, versões e vitrine de destaques |
-| 📰 **Notícias** | Avisos da equipe com data de publicação |
-| 🖼️ **Fotos do app** | Prints deitados, lado a lado, com seta quando há mais |
-| 🔗 **Link do jogo** | Abre a página do jogo no navegador |
-| 📅 **Data recompilada** | Mostra quando a versão atual foi preparada |
-| 🙋 **Pedir link do jogo** | Para quem está logado, quando o link ainda não existe |
-| 🌗 **Temas** | Claro, escuro ou seguir o tema do celular |
+## Início, coleções e novidades
 
----
+- **Destaques:** jogos, emuladores e coleções em destaque na tela inicial. Tocar em um destaque leva direto ao item.
+- **Coleções:** grupos de itens reunidos por tema, com capas de amostra e a quantidade de itens. A opção "Ver tudo" mostra todas as coleções.
+- **Chegou agora:** os jogos e emuladores das últimas 24 horas. Quando não há nada novo, a faixa não aparece.
+- **Notícias:** avisos com a data de publicação.
 
-## 🧭 Como navegar
+## Fotos
 
-- **Ordem:** escolha **A–Z** ou **Recentes**. A escolha fica salva.
-- **Grade:** é a visualização padrão. Os itens são agrupados por letra, e a setinha à direita indica mais itens.
-- **Lista:** um item por linha, para ler os nomes com calma.
-- **Ficha:** toque em qualquer item para ver capa, descrição, requisitos, versões e fotos.
+Jogos e emuladores podem ter fotos do app, em formato deitado, lado a lado. Quando há mais fotos do que cabe na tela, uma setinha indica que dá para rolar. Quando um item não tem fotos, aparece "Prévia indisponível".
 
----
+## Temas
 
-## 📱 Requisitos
+O app tem tema claro, tema escuro e a opção de seguir o tema do celular. Quando o celular muda entre claro e escuro, o app acompanha a mudança.
 
-- Android 7.0 ou superior
-- Conexão com a internet para carregar e atualizar o catálogo
-- Espaço livre para o app e para o cache de capas e fotos: [preencher]
+## Uso sem internet
 
----
+O app guarda o último catálogo carregado. Sem internet, você continua vendo os jogos, emuladores, capas, descrições e fotos que já tinham sido carregados. Para ver novidades e abrir links, é preciso estar conectado.
 
-## 🙏 Créditos
+## Aviso
 
-[Preencher com os nomes da equipe, colaboradores e de quem fornece os conteúdos publicados.]
-
-Este projeto é independente e não tem afiliação com as empresas donas dos jogos ou dos emuladores citados. Todas as marcas pertencem aos seus respectivos donos.
-
----
-
-## 🧾 Novidades da versão
-
-- Aba **Originais** para jogos fora do catálogo Redump
-- Fotos do app em formato deitado, com seta para rolar
-- Link do jogo e data de recompilação na ficha, quando publicados
-- Pedido de link do jogo para usuários logados
-- Ordem A–Z e visualização em grade por padrão
-- Tema claro e escuro, seguindo o celular
-- Cache do catálogo para uso sem internet
-- Avisos de servidor indisponível com a última versão salva
+O Redump Box não traz nenhum jogo ou emulador. Use apenas conteúdo que você tem autorização para usar.
