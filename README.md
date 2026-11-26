@@ -1,46 +1,83 @@
-# Redump Box
+# 📦 Redump Box
 
-> **Download da versão 1.0:** [baixar APK para Android](https://github.com/will-tool/Redump-Box/releases/download/1.0/redumpbox_beta_1.0_arm64.apk)  
-> [Abrir página da Release](https://github.com/will-tool/Redump-Box/releases/tag/1.0) · [Ver todas as versões](https://github.com/will-tool/Redump-Box/releases)
+Um app Android para explorar ports, jogos e emuladores em um só lugar, com catálogo organizado, coleções, novidades e fotos de cada item.
 
-Um catálogo Android de **ports, jogos, emuladores e aplicativos auxiliares**. Pesquise itens, veja as informações disponíveis e acompanhe novidades no próprio app.
+> ⚠️ **Aviso importante:** o app não contém jogos nem emuladores. Ele apenas organiza e direciona para o que a equipe publica. Use apenas conteúdo que você tem o direito de usar.
 
-## O que tem no app
+---
 
-- Catálogos de ports, jogos, emuladores e apps.
-- Busca e filtros para localizar itens.
-- Páginas de detalhes com as informações e os links cadastrados.
-- Favoritos e fila de downloads.
-- Novidades e notificações de atualização.
-- Temas Mar, Escuro e Claro.
+## 📥 Download
 
-## Instalação
+Baixe a versão mais recente na página de **Releases** deste repositório.
 
-1. Baixe o APK pelo link de download acima ou pela página de [Releases](https://github.com/will-tool/Redump-Box/releases).
-2. Abra o arquivo no Android e siga as instruções na tela.
-3. Se o Android solicitar, autorize a instalação para o navegador ou gerenciador de arquivos usado e retome a instalação.
+| Versão | Tamanho | Onde baixar |
+|---|---|---|
+| Última | [preencher] | Página de Releases |
 
-### Requisitos
+---
 
-A versão 1.0 disponibilizada aqui é para **Android 7.0 ou superior**, em dispositivos **ARM64 (`arm64-v8a`)**. Um aparelho com arquitetura diferente pode não aceitar este APK.
+## 🚀 Primeiro uso
 
-## Atualizações
+1. Baixe o arquivo de instalação pela página de Releases.
+2. Abra o arquivo no celular e autorize a instalação, se o Android pedir.
+3. Toque em **Instalar** e depois em **Abrir**.
+4. Na primeira vez, o app mostra uma apresentação rápida com o que existe em cada aba.
 
-As versões novas são publicadas em [Releases](https://github.com/will-tool/Redump-Box/releases). Se o aviso de atualização obrigatória estiver ativo, o app encaminha para baixar a nova versão. A instalação sempre depende da confirmação do Android.
+> 💡 **Dica:** o app guarda o último catálogo carregado. Assim, depois da primeira abertura com internet, você continua vendo os itens mesmo sem conexão.
 
-Para atualizar uma instalação existente, a versão nova precisa manter o mesmo identificador de aplicativo e ser assinada com a mesma chave usada na instalação anterior.
+---
 
-## Aviso sobre downloads
+## ✨ Recursos
 
-Os itens do catálogo podem apontar para serviços externos. Links e arquivos podem mudar ou deixar de funcionar. Confira a origem antes de baixar e instale apenas conteúdo que você tem autorização para usar.
+| Área | O que você encontra |
+|---|---|
+| 🏠 **Início** | Destaques escolhidos pela equipe e coleções em destaque |
+| 📚 **Coleções** | Grupos de itens por tema, com contador e a opção "Ver tudo" |
+| 🆕 **Chegou agora** | Itens adicionados nas últimas 24 horas |
+| 🎮 **Ports Redump** | Catálogo com ordem A–Z ou recentes, em grade ou lista |
+| 🧩 **Originais** | Jogos publicados pela equipe, fora do catálogo Redump |
+| 🖥️ **Emuladores** | Lista com sistemas, plataforma, versões e vitrine de destaques |
+| 📰 **Notícias** | Avisos da equipe com data de publicação |
+| 🖼️ **Fotos do app** | Prints deitados, lado a lado, com seta quando há mais |
+| 🔗 **Link do jogo** | Abre a página do jogo no navegador |
+| 📅 **Data recompilada** | Mostra quando a versão atual foi preparada |
+| 🙋 **Pedir link do jogo** | Para quem está logado, quando o link ainda não existe |
+| 🌗 **Temas** | Claro, escuro ou seguir o tema do celular |
 
-Nomes, marcas, imagens, jogos e apps de terceiros pertencem aos seus respectivos titulares. A presença de um item no catálogo não significa que Redump Box seja seu criador ou titular.
+---
 
-Este repositório é para apresentar o app e distribuir os APKs em **Releases**. O código-fonte não está publicado aqui.
+## 🧭 Como navegar
 
-## Comunidade e suporte
+- **Ordem:** escolha **A–Z** ou **Recentes**. A escolha fica salva.
+- **Grade:** é a visualização padrão. Os itens são agrupados por letra, e a setinha à direita indica mais itens.
+- **Lista:** um item por linha, para ler os nomes com calma.
+- **Ficha:** toque em qualquer item para ver capa, descrição, requisitos, versões e fotos.
 
-- **Telegram:** [t.me/redumpbox](https://t.me/redumpbox)
-- **Problemas ou sugestões:** [abrir uma Issue](https://github.com/will-tool/Redump-Box/issues)
+---
 
-Ao relatar um problema, informe o modelo do aparelho, a versão do Android e o que aconteceu. Não publique senhas, tokens ou dados pessoais.
+## 📱 Requisitos
+
+- Android 7.0 ou superior
+- Conexão com a internet para carregar e atualizar o catálogo
+- Espaço livre para o app e para o cache de capas e fotos: [preencher]
+
+---
+
+## 🙏 Créditos
+
+[Preencher com os nomes da equipe, colaboradores e de quem fornece os conteúdos publicados.]
+
+Este projeto é independente e não tem afiliação com as empresas donas dos jogos ou dos emuladores citados. Todas as marcas pertencem aos seus respectivos donos.
+
+---
+
+## 🧾 Novidades da versão
+
+- Aba **Originais** para jogos fora do catálogo Redump
+- Fotos do app em formato deitado, com seta para rolar
+- Link do jogo e data de recompilação na ficha, quando publicados
+- Pedido de link do jogo para usuários logados
+- Ordem A–Z e visualização em grade por padrão
+- Tema claro e escuro, seguindo o celular
+- Cache do catálogo para uso sem internet
+- Avisos de servidor indisponível com a última versão salva
