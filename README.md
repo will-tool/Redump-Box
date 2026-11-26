@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/readme-assets/icone.png" alt="Ícone do Redump Box" width="128">
+  <img src="https://raw.githubusercontent.com/will-tool/Redump-Box/main/readme-assets/icone.png" alt="Ícone do Redump Box" width="128">
 </p>
 
 # Redump Box 1.0
@@ -7,9 +7,9 @@
 O Redump Box é um app para Android que reúne ports, jogos e emuladores num só lugar. Em cada item você encontra capa, descrição, requisitos, versões e fotos, e pode navegar pelo catálogo do jeito que preferir.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/readme-assets/preview-ports.jpg" alt="Tela de ports" width="260">
+  <img src="https://raw.githubusercontent.com/will-tool/Redump-Box/main/readme-assets/preview-ports.jpg" alt="Tela de ports" width="260">
   &nbsp;
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/readme-assets/preview-apps.jpg" alt="Tela de apps" width="260">
+  <img src="https://raw.githubusercontent.com/will-tool/Redump-Box/main/readme-assets/preview-apps.jpg" alt="Tela de apps" width="260">
 </p>
 
 ## Requisitos
