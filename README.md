@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="icone.png" alt="Ícone do Redump Box" width="128">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/readme-assets/icone.png" alt="Ícone do Redump Box" width="128">
 </p>
 
 # Redump Box 1.0
 
 O Redump Box é um app para Android que reúne ports, jogos e emuladores num só lugar. Em cada item você encontra capa, descrição, requisitos, versões e fotos, e pode navegar pelo catálogo do jeito que preferir.
 
-A proposta é juntar em um lugar só o que normalmente fica espalhado por vários sites: o nome do jogo, a versão, o que ele precisa do seu aparelho, quando foi recompilado e se já existe um link para abrir. Tudo organizado para você escolher com calma.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/readme-assets/preview-ports.jpg" alt="Tela de ports" width="260">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/readme-assets/preview-apps.jpg" alt="Tela de apps" width="260">
+</p>
 
 ## Requisitos
 
@@ -34,6 +38,10 @@ A aba Originais reúne jogos que não fazem parte do catálogo Redump. Eles têm
 ## Emuladores
 
 A aba de emuladores lista cada emulador com os sistemas que ele roda, a plataforma, as versões e as fotos. Os emuladores em destaque aparecem numa vitrine no topo da aba, com imagens maiores.
+
+## Apps auxiliares
+
+A aba Apps reúne programas de apoio, como gerenciadores de arquivos, com versão, descrição e tamanho. Você pode ordenar por A–Z ou por Recentes.
 
 ## Início, coleções e novidades
 
